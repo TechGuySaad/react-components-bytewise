@@ -1,0 +1,12 @@
+.card{
+    background-color: rgb(134, 134, 255);
+    width: 400px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.App{
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
